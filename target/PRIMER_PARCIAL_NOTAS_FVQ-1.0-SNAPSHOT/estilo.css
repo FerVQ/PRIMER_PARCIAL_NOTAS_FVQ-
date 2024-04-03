@@ -1,0 +1,19 @@
+.datos{
+    margin-top:20px;
+    width:300px;
+    border:2px solid black;
+    text-aleign: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.centrado{
+    border:0px solid black;
+    
+}
+
+h3{
+    font-size:18px;
+    margin-left:7px;
+    background:white;
+}
+
